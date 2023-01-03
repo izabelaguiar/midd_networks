@@ -5,7 +5,7 @@ The course textbook is _Networks, Crowds, and Markets_, by Easley and Kleinberg.
 
 The course syllabus, including a (tentative) schedule with corresponding readings, is accessible here as the file `MATH1010_Syllabus.pdf`. 
 
-Weekly homework assignments will be uploaded here on Tuesday mornings, and will be due at the beginning of class on Tuesdays. If you like to typeset your solutions in LaTeX you may email me your solutions as a pdf to `iaguiar@middlebury.edu`. Otherwise, a handwritten copy may be turned in before class starts.
+Weekly homework assignments will be uploaded here on Tuesday mornings, and will be due at the beginning of class on Tuesdays. If you like to typeset your solutions in LaTeX you may email me your solutions as a pdf to `iaguiar@middlebury.edu`. Otherwise, you may bring a (legible) handwritten copy to turn in before class starts.
 
 Any announcements will be posted below and emailed to you.
 
