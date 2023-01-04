@@ -10,6 +10,9 @@ Weekly homework assignments will be uploaded here on Tuesday mornings, and will 
 Any announcements will be posted below and emailed to you.
 
 ## Annoucements 
+### January 4 | Syllabus Correction
+I learned last night that we do not have class on **Monday, January 16** in observation of MLK Jr. Day. I have updated the agenda in the syllabus to reflect this.
+
 ### January 3 | Welcome to MATH1010
 I hope you all had a lovely break and are settling back into campus nicely.
 
