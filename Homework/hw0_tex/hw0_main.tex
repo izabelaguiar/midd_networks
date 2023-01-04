@@ -1,0 +1,50 @@
+\documentclass{tufte-handout}
+\usepackage{graphicx}
+\usepackage{changepage}
+
+\definecolor{SolutionColor}{rgb}{0.5,0,0}
+\newcommand{\solution}[1]{
+\begin{adjustwidth}{1cm}{}
+\textit{\color{SolutionColor} #1}
+\end{adjustwidth}}
+\usepackage{lipsum}
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+
+\begin{document}
+\begin{fullwidth} 
+\section{MATH1010: Homework 0}
+    \textit{Assigned January 5, 2022}
+    \textbf{Due January 10, 2022}
+\vspace{.2cm}
+    
+\noindent\textit{Exercises taken from Easley and Kleinberg are reproduced here and referenced as \textbf{E\&K, Chapter X, Problem Y.}}    
+\section*{\textbf{Exercise 1}}
+Please fill out the introductory survey by going to the link: \\\verb|bit.ly/math1010_hw0|\\ 
+\noindent I'll also post the link to our GitHub page. The survey is anonymous but I'll expect 25 responses (one for each student in the class).
+
+\section*{\textbf{Exercise 2}}
+\textit{E\&K, Chapter 2, Problem 1}\\
+One reason for graph theory’s power as a modeling tool is the fluidity with which one can formalize properties of large systems using the language of graphs, and then systematically explore their consequences. In this first set of questions, we will work through an example of this process using the concept of a pivotal node.
+
+First, recall from Chapter 2 that a shortest path between two nodes is a path of the minimum possible length. We say that a node $X$ is pivotal for a pair of distinct nodes $Y$ and $Z$ if $X$ lies on \textit{every shortest path} between $Y$ and $Z$ (and $X$ is not equal to either $Y$ or $Z$). \vspace{.5cm}
+
+\marginnote{\textbf{Figure 2.13} \textit{from E\&K Ch. 2, Pr 1.}\\ \noindent In this example, node $B$ is pivotal for two pairs: the pair consisting of $A$ and $C$, and the pair consisting of $A$ and $D$. On the other hand, node $D$ is not pivotal for any pairs.}
+\begin{figure*}
+    \centering
+    \includegraphics{fig213.pdf}
+    \label{fig:213}
+\end{figure*} 
+
+For example, in the graph in Figure 2.13, node $B$ is pivotal for two pairs: the pair consisting of $A$ and $C$, and the pair consisting of $A$ and $D$. (Notice that $B$ is not pivotal for the pair consisting of $D$ and $E$ since there are two different shortest paths connecting $D$ and $E$, one of which (using $C$ and $F$) doesn't pass through $B$. So $B$ is not on every shortest path between $D$ and $E$.) On the other hand, node $D$ is not pivotal for any pairs.
+\begin{enumerate}
+    \item Give an example of a graph in which every node is pivotal for at least two different pairs of nodes. Explain your answer.
+    \solution{
+    Write your solution here.
+    }
+    \item Give an example of a graph having at least four nodes in which there is a single node $X$ that is pivotal for every pair of nodes (not counting pairs that include $X$). Explain your answer.
+    \solution{
+    Write your solution here.
+    }
+\end{enumerate}
+\end{fullwidth}
+\end{document}
