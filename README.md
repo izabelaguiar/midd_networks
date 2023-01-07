@@ -10,6 +10,10 @@ Weekly homework assignments will be uploaded here on Tuesday mornings, and will 
 Any announcements will be posted below and emailed to you.
 
 ## Annoucements 
+### January 7 | Additional Notes Uploaded
+I've uploaded the additional notes from Thursday that aren't covered in the book: definitions of degree, in/out-degree, and different types of graphs. I've also updated the Syllabus and Agenda with the specific sections of Chapter 2 that we've covered.
+I've also edited the schedule for Tuesday 1/10 because I did a PST->EST time conversion wrong. For those who would like to work through the Tuesday activities in person, I'll hold additional office hours in our classroom from 3-4pm. This change is also in the syllabus.
+
 ### January 4 | Syllabus Correction
 I learned last night that we do not have class on **Monday, January 16** in observation of MLK Jr. Day. I have updated the agenda in the syllabus to reflect this.
 
