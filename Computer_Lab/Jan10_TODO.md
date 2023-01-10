@@ -64,6 +64,16 @@ jupyter notebook
 ```
 in the command line.
 
+If you are getting errors, it might be helpful to read [this page](https://docs.jupyter.org/en/latest/install/notebook-classic.html). Note that you have to have python installed. Most computers already have this. You also have to have the latest `pip` version installed. 
+
+If the above doesn't work, try
+```
+pip3 install --upgrade pip
+```
+and then
+```
+pip3 install jupyter
+```
 ## Do today's activity
 Download `CL_Jan10.ipynb` by going to the `midd_networks` repository, navigate to `Computer_Lab/CL_Jan10.ipynb`, and click "Download".
 
