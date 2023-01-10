@@ -55,7 +55,11 @@ Create a `README.md` file in your repository that has a short description of wha
 There is a guide for [installing jupyter notebook here](https://jupyter.org/install.html). 
 If you know how to use `pip` and the command line, you just need to type
 ```
-pip install notebook
+pip3 install --upgrade pip
+```
+and then
+```
+pip3 install notebook
 ```
 in the command line.
 Then, to run jupyter notebook, type
@@ -66,13 +70,9 @@ in the command line.
 
 If you are getting errors, it might be helpful to read [this page](https://docs.jupyter.org/en/latest/install/notebook-classic.html). Note that you have to have python installed. Most computers already have this. You also have to have the latest `pip` version installed. 
 
-If the above doesn't work, try
+If the above doesn't work, you might have an earlier version of python. Try
 ```
-pip3 install --upgrade pip
-```
-and then
-```
-pip3 install jupyter
+pip install notebook
 ```
 ## Do today's activity
 Download `CL_Jan10.ipynb` by going to the `midd_networks` repository, navigate to `Computer_Lab/CL_Jan10.ipynb`, and click "Download".
