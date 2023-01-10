@@ -11,7 +11,7 @@ Any announcements will be posted below and emailed to you.
 
 ## Annoucements 
 ### January 9 | Asynchronous Activities Uploaded
-As a reminder, we're not meeting in person tomorrow. Instead, I've uploaded some asynchronous activities you'll need to complete to our GitHub page.
+As a reminder, we're not meeting in person tomorrow. Instead, I've uploaded some asynchronous activities to our GitHub page that you'll need to complete by Thursday.
 
 You'll see two files in the Computer_Lab​ folder of the GitHub. Please open the Jan10_TODO.md​ file first and complete the tasks that are outlined in the file (including the online quiz which must be done by 11:59pm Tues 1/10).
 
