@@ -89,6 +89,11 @@ in my command line. Now type
 jupyter notebook
 ```
 in the command line, and jupyter will open in your browser window.
+If you have an OS of 12 or earlier, instead of typing `jupyter notebook` you'll need to type
+```
+python3 -m notebook
+```
+to run jupyter notebooks.
 
 You should now see the file `CL_Jan10.ipynb`. Click it and the file will open in a new tab. Complete the activities in the notebook.
 
