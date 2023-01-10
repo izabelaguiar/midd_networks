@@ -75,7 +75,7 @@ If the above doesn't work, you might have an earlier version of python. Try
 pip install notebook
 ```
 ## Do today's activity
-Download `CL_Jan10.ipynb` by going to the `midd_networks` repository, navigate to `Computer_Lab/CL_Jan10.ipynb`, and click "Download".
+Download `CL_Jan10.ipynb` from the email I sent. 
 
 Find where your computer saved this download and move it into a local folder on your computer where you keep things for this class. 
 If you don't have one yet, maybe make a folder called `MATH1010`. 
