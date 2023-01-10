@@ -1,6 +1,7 @@
 # January 10, Computer Lab 
 
 ## tl;dr: 
+* [Take today's quiz](https://forms.gle/zJcXShUAk1ffSwht8)
 * Make a GitHub Account
 * Star the `midd_networks` repository using your GitHub account
 * Create a repository titled `math-1010-lastname` 
