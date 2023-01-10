@@ -10,6 +10,9 @@ Weekly homework assignments will be uploaded here on Tuesday mornings, and will 
 Any announcements will be posted below and emailed to you.
 
 ## Annoucements 
+### January 10 | HW 1 Uploaded
+Homework 1 is uploaded to the GitHub Homework folder. It is due January 17.
+
 ### January 9 | Asynchronous Activities Uploaded
 As a reminder, we're not meeting in person tomorrow. Instead, I've uploaded some asynchronous activities to our GitHub page that you'll need to complete by Thursday.
 
