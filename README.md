@@ -10,6 +10,8 @@ Weekly homework assignments will be uploaded here on Tuesday mornings, and will 
 Any announcements will be posted below and emailed to you.
 
 ## Annoucements 
+### January 13 | Agenda Updated and Notes Uploaded
+I've updated the Agenda and Syllabus to reflect the sections of the textbook we covered this week. I've also uploaded two additional notes files, `Adj_mats.pdf` and `Centrality_measures.pdf`. I incorrectly wrote down the definition of closeness centrality for connected graphs yesterday: it's been corrected in this pdf. The definition for disconnected graphs, although unintuitive, was correct (phew!). Have a lovely long weekend and I'll see you all Tuesday.
 ### January 10 | HW 1 Uploaded
 Homework 1 is uploaded to the GitHub Homework folder. It is due January 17.
 
