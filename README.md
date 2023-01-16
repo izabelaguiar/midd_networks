@@ -10,6 +10,11 @@ Weekly homework assignments will be uploaded here on Tuesday mornings, and will 
 Any announcements will be posted below and emailed to you.
 
 ## Annoucements 
+### January 16 | Three reminders
+I hope you all had a lovely long weekend. I wanted to remind you that I'll be having make-up office hours tomorrow from 10-12. I also wanted to remind you that HW1 is due tomorrow by 1pm. You may email it to me or bring in a paper copy to turn in at the beginning of class. I won't accept any late work tomorrow, so please turn it in on time.
+
+Final reminder is to please bring your laptops tomorrow for our computer lab together.
+
 ### January 13 | Agenda Updated and Notes Uploaded
 I've updated the Agenda and Syllabus to reflect the sections of the textbook we covered this week. I've also uploaded two additional notes files, `Adj_mats.pdf` and `Centrality_measures.pdf`. I incorrectly wrote down the definition of closeness centrality for connected graphs yesterday: it's been corrected in this pdf. The definition for disconnected graphs, although unintuitive, was correct (phew!). Have a lovely long weekend and I'll see you all Tuesday.
 ### January 10 | HW 1 Uploaded
