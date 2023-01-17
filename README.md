@@ -10,6 +10,9 @@ Weekly homework assignments will be uploaded here on Tuesday mornings, and will 
 Any announcements will be posted below and emailed to you.
 
 ## Annoucements 
+### January 16 | HW2 Uploaded
+I just uploaded HW2 which will be due January 24.
+
 ### January 16 | Three reminders
 I hope you all had a lovely long weekend. I wanted to remind you that I'll be having make-up office hours tomorrow from 10-12. I also wanted to remind you that HW1 is due tomorrow by 1pm. You may email it to me or bring in a paper copy to turn in at the beginning of class. I won't accept any late work tomorrow, so please turn it in on time.
 
