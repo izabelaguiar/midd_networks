@@ -10,6 +10,14 @@ Weekly homework assignments will be uploaded here on Tuesday mornings, and will 
 Any announcements will be posted below and emailed to you.
 
 ## Annoucements 
+### January 19 | Power Law Distributions | The Great Divide
+Turns out I had NO IDEA the can of worms I squeaked open when I referenced "some sort of drama with power laws and Barabasi" in class yesterday.
+
+I'll talk about this in class on Monday, but for those of you who are curious, I've dumped a bunch of resources/links/papers on what I've since learned is referred to as The Great Divide in the [scale_free_networks](https://github.com/izabelaguiar/midd_networks/tree/main/Additional%20Notes/scale_free_networks) folder on our GitHub.
+
+### January 18 | TODO: Survey for project teams
+Please have one member of your project team [fill out this survey by Monday](https://docs.google.com/forms/d/e/1FAIpQLSc5sA3A_CGKfzZFeSqg6wH8DMITAtQ4y503lWORjQ1awQR2uw/viewform?usp=sf_link). If you do not have a project team yet, please fill this survey out too, as I will use it to pair you with others who don't have a team. If you have two people in your team, you might have another added. 
+
 ### January 16 | HW2 Uploaded
 I just uploaded HW2 which will be due January 24.
 
