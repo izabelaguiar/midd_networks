@@ -10,6 +10,9 @@ Weekly homework assignments will be uploaded here on Tuesday mornings, and will 
 Any announcements will be posted below and emailed to you.
 
 ## Annoucements 
+### January 25 | Wisdom and/or Madness of Crowds by Nicky Case
+In class tomorrow we'll be learning about information cascades and diffusion through a network. The _best_ way (in my opinion) to think about these concepts is through Nicky Case's [Wisdom and/or Madness of Crowds simulation](https://ncase.me/crowds/). So, we'll spend a bit of time in class playing with their website!
+
 ### January 19 | Power Law Distributions | The Great Divide
 Turns out I had NO IDEA the can of worms I squeaked open when I referenced "some sort of drama with power laws and Barabasi" in class yesterday.
 
