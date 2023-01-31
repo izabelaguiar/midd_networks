@@ -10,6 +10,9 @@ Weekly homework assignments will be uploaded here on Tuesday mornings, and will 
 Any announcements will be posted below and emailed to you.
 
 ## Annoucements 
+### January 31| Jan 31 Quiz
+[Today's quiz can be accessed here.](https://docs.google.com/forms/d/e/1FAIpQLSccSeqmywcX4Rzq3XGWVjisepO6WVpnuORXrd94H2x-vlGVDQ/viewform?usp=sf_link) Please complete it by 11:55pm tonight.
+
 ### January 30 | Course Reviews
 In addition to filling out your [Middlebury course review](https://go.middlebury.edu/crf), please fill out the [anonymous course review here](https://forms.gle/w4BtSVkMBmfeEiuk8). I intend to teach this class again in the future (and I hope to keep teaching in general!) and your feedback is deeply appreciated.
 
