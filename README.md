@@ -10,6 +10,24 @@ Weekly homework assignments will be uploaded here on Tuesday mornings, and will 
 Any announcements will be posted below and emailed to you.
 
 ## Annoucements 
+## January 31 | Plotting Communities with node names
+If you're having trouble plotting your communities after you've renamed your nodes, this helper function will help:
+
+    def switch_to_numbers(G, C):
+        num_comm = len(C)
+        a = []
+        for c in range(num_comm):
+            a.append([0])
+        for i, node in enumerate(G.nodes()):
+            for j in range(num_comm):
+                if node in C[j]:
+                    a[j].append(i)
+        for c in range(num_comm):
+            a[c] = a[c][1:]
+        return a
+        
+To use it, you can write `numbered_communities = switch_to_numbers(name_of_network, gn_communities)`. Now, you can use the `Plot_Comm` function by calling `Plot_Comm(name_of_network, numbered_communities)`
+
 ### January 31| Jan 31 Quiz
 [Today's quiz can be accessed here.](https://docs.google.com/forms/d/e/1FAIpQLSccSeqmywcX4Rzq3XGWVjisepO6WVpnuORXrd94H2x-vlGVDQ/viewform?usp=sf_link) Please complete it by 11:55pm tonight.
 
